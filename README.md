@@ -1,0 +1,3 @@
+# MRTKMinimum
+
+MRTKをHoloLens2, UnityEditorで動作させるためにできるだけ不要なものを削除したもの
