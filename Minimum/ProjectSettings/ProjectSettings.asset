@@ -591,11 +591,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MRTKMinimum
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\MRTK\MRTKMinimum\Minimum\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 0052cf1c3c61d701
   metroApplicationDescription: MRTKMinimum
   wsaImages: {}
   metroTileShortName: 
